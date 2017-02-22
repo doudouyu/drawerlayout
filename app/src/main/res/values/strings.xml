@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JavaLife</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="app_not_available">app_not_available</string>
+</resources>
